@@ -1,3 +1,3 @@
 # Tesla Stock Prediction using Twitter
 
-Predicting Tesla's opening stock price and trading volume using tweets and stock data
+Predicting Tesla's (TSLA) daily opening stock price using sentiment analysis of the relevant tweets. 
